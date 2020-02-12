@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1, nav {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+table {
+    margin: auto;
+    table-layout: fixed;
+    background-color: white;
+    color: black;
+    width: 50%;
+    border-color: darkgrey;
+}
+
+th {
+    border-collapse: collapse;
+    background-color: blue;
+    color: white;
+    width: 25%;
+    height: 30px;
+}
+
+td {
+    padding: 2px;
+    text-align: center;
+    height: 25px;
+}
